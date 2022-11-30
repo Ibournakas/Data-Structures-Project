@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "/Users/ibour/Library/CloudStorage/OneDrive-Personal/University/Semester 5/Data Structures Project/BOURNAKAS_CHALATSI_AB_MEROS/mysql-connector-java-8.0.30/**/*.jar"
-    ]
-}
